@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -105,21 +105,3 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-
-body {
-  font-family: 'Segoe UI', sans-serif;
-}
-
-h2 {
-  margin-top: 40px;
-  margin-bottom: 20px;
-}
-
-.card img {
-  height: 180px;
-  object-fit: cover;
-}
-
-footer {
-  margin-top: 60px;
-}
